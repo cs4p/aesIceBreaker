@@ -1,0 +1,3 @@
+A QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 9999999 beers. Orders a lizard. Orders -1 beers. Orders a uebgiohagh. 
+
+First real customer walks into the bar and asks where the bathroom is. The bar bursts into flames, killing everyone.
