@@ -2,7 +2,7 @@ docx
 pycryptodome==3.9.0
 python-docx==0.8.10
 qrcode==6.1
-requests==2.22.0
+requests==2.31.0
 urllib3==1.26.5
 
 
